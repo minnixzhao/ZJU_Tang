@@ -10,7 +10,7 @@ game_client.java：客户端（与game_client2.java文件内容相同）
 
 先启动服务端，2个客户端连接成功后，开始游戏。
 
-![image-20200104224353589](.\文档图片\img1.png)
+![main_interface](\文档图片\img1.png)
 
 WASD进行移动
 
@@ -22,11 +22,11 @@ M音乐开关
 
 道具：
 
-![image-20200104223109364](.\文档图片\img2.png)增加炮弹数量
+![bomb_more](文档图片\img2.png)增加炮弹数量
 
 
 
-![image-20200104223138634](.\文档图片\img3.png)增加炮弹威力
+![bomb_stronger](.\文档图片\img3.png)增加炮弹威力
 
 
 
